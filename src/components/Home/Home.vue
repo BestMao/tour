@@ -1,9 +1,7 @@
 <template>
   <div>
-    <div>home</div>
     <home-header></home-header>
   </div>
-
 </template>
 <script>
 import HomeHeader from './components/HomeHeader.vue'
