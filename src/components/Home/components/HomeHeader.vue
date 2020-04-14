@@ -22,6 +22,8 @@ export default {
   line-height: 0.88rem;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  color: #fff;
   .header-back {
     width: 0.8rem;
   }
